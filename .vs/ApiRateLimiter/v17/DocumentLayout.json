@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\ratelimiterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\ratelimiterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\controllers\\ratelimitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\controllers\\ratelimitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\views\\ratelimiter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\views\\ratelimiter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|c:\\users\\dell\\source\\repos\\apiratelimiter\\apiratelimiter\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517A0569-618C-40E8-AE57-A598CEA99408}|ApiRateLimiter\\ApiRateLimiter.csproj|solutionrelative:apiratelimiter\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\appsettings.json",
+              "RelativeToolTip": "ApiRateLimiter\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T06:41:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiRateLimiter\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:36:10.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Models\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Models\\ApiRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Models\\ApiRequest.cs",
+              "RelativeToolTip": "ApiRateLimiter\\Models\\ApiRequest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA4wAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:35:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApiRateLimiter\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:39:29.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RateLimiterService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\RateLimiterService.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\RateLimiterService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\RateLimiterService.cs",
+              "RelativeToolTip": "ApiRateLimiter\\RateLimiterService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:37:00.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RateLimiterController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Controllers\\RateLimiterController.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Controllers\\RateLimiterController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Controllers\\RateLimiterController.cs",
+              "RelativeToolTip": "ApiRateLimiter\\Controllers\\RateLimiterController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:37:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ApiRateLimiter\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:22:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ApiRateLimiter\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:39:27.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\RateLimiter\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Views\\RateLimiter\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\RateLimiter\\Index.cshtml",
+              "RelativeToolTip": "ApiRateLimiter\\Views\\RateLimiter\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T06:38:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ApiRateLimiter\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T06:46:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Program.cs",
+              "RelativeToolTip": "ApiRateLimiter\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:38:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ApiRateLimiter\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:12:43.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ApiRateLimiter\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T06:46:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ApiRateLimiter\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ApiRateLimiter\\ApiRateLimiter\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ApiRateLimiter\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T06:46:42.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
